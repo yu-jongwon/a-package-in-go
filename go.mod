@@ -1,3 +1,3 @@
-module a_package_in_go
+module github.com/yu-jongwon/a-package-in-go
 
 go 1.18
