@@ -1,4 +1,4 @@
-package a_package_in_go
+package github.com/yu-jongwon/a-package-in-go
 
 import (
 	"fmt"
