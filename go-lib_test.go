@@ -1,4 +1,4 @@
-package lib
+package a-package-in-go
 
 import (
 	"testing"
